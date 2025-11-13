@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b8hpub21pj00v"
-path="res://.godot/imported/plains_corners.png-3f88fba093647218304c7a3a51d4c38b.ctex"
+uid="uid://cdtlklalxq7qt"
+path="res://.godot/imported/walk.png-1f154f53867224fdddc6a086e87e3d31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://world/assets/plains_corners.png"
-dest_files=["res://.godot/imported/plains_corners.png-3f88fba093647218304c7a3a51d4c38b.ctex"]
+source_file="res://actors/character/assets/animation/walk.png"
+dest_files=["res://.godot/imported/walk.png-1f154f53867224fdddc6a086e87e3d31.ctex"]
 
 [params]
 

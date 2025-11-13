@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b8hpub21pj00v"
-path="res://.godot/imported/plains_corners.png-3f88fba093647218304c7a3a51d4c38b.ctex"
+uid="uid://htgf2hjyyx7g"
+path="res://.godot/imported/Jump_Shadow.png-89872c8d0736af6fa3d0404ea999b02a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://world/assets/plains_corners.png"
-dest_files=["res://.godot/imported/plains_corners.png-3f88fba093647218304c7a3a51d4c38b.ctex"]
+source_file="res://actors/character/assets/animation/Jump_Shadow.png"
+dest_files=["res://.godot/imported/Jump_Shadow.png-89872c8d0736af6fa3d0404ea999b02a.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b8hpub21pj00v"
-path="res://.godot/imported/plains_corners.png-3f88fba093647218304c7a3a51d4c38b.ctex"
+uid="uid://y5tqfudpueb"
+path="res://.godot/imported/Dash_Dust.png-670dc5426b21805724ae607d9979e9f1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://world/assets/plains_corners.png"
-dest_files=["res://.godot/imported/plains_corners.png-3f88fba093647218304c7a3a51d4c38b.ctex"]
+source_file="res://actors/character/assets/animation/Dash_Dust.png"
+dest_files=["res://.godot/imported/Dash_Dust.png-670dc5426b21805724ae607d9979e9f1.ctex"]
 
 [params]
 
