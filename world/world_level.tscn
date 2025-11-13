@@ -17,3 +17,8 @@ tile_set = ExtResource("1_82sdb")
 
 [node name="Explorer" parent="." instance=ExtResource("2_3r6t6")]
 position = Vector2(454, 297)
+
+[node name="Camera2D" type="Camera2D" parent="Explorer"]
+position_smoothing_enabled = true
+drag_horizontal_enabled = true
+drag_vertical_enabled = true
